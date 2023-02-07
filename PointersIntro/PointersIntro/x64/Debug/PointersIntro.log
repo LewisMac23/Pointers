@@ -1,0 +1,5 @@
+﻿  PointersIntro.cpp
+C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\PointersIntro\PointersIntro\PointersIntro.cpp(21,13): warning C4101: 'dp': unreferenced local variable
+C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\PointersIntro\PointersIntro\PointersIntro.cpp(23,11): warning C4101: 'ch': unreferenced local variable
+C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\PointersIntro\PointersIntro\PointersIntro.cpp(22,12): warning C4101: 'fp': unreferenced local variable
+  PointersIntro.vcxproj -> C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\PointersIntro\x64\Debug\PointersIntro.exe
